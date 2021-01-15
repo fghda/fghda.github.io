@@ -1,0 +1,20 @@
+.top-container {
+  background-color: grey;
+  height: 1200px;
+}
+
+.mid-container {
+  background-color: white;
+  height: 500px;
+}
+
+.bot-container {
+  background-color: green;
+  height: 500px;
+}
+
+.cover__logo {
+    position: sticky;
+    top: 50%;
+    left: 50%;
+  }
