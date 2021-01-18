@@ -21,7 +21,19 @@ video {
 .mid-container {
   background-image:url(../images/2.jpg);
   background-position: center center;
-  background-repeat: no-repeat;
+  background-repeat: repeat;
+  background-size:cover;
+  height: 120vh;
+  width: 100%;
+  padding-top: 5vh;
+  text-align: center;
+  color: #FFFFFF
+}
+
+.mid2-container {
+  background-image:url(../images/retrov2.png);
+  background-position: center center;
+  background-repeat: repeat;
   background-size:cover;
   height: 100vh;
   width: 100%;
@@ -49,7 +61,7 @@ video {
   background-size: cover;
   padding-top: 4vh;
   text-align: center;
-  height: 2000px;
+  height: 50vh;
   width: 100%;
   color: #FFFFFF
 }
