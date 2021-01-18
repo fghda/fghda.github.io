@@ -19,7 +19,6 @@ video {
 }
 
 .mid-container {
-  object-fit: contain;
   background-image:url(../images/2.jpg);
   background-position: center center;
   background-repeat: repeat;
