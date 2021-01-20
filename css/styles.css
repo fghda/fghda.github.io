@@ -19,6 +19,7 @@ video {
 }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 .graphicgallery {
   display: grid;
   grid-template-columns: repeat(11, 1fr);
@@ -59,6 +60,8 @@ video {
 
   }
 
+=======
+>>>>>>> parent of 3bb93a1... Scaling fix
 =======
 >>>>>>> parent of 3bb93a1... Scaling fix
 .mid-container {
